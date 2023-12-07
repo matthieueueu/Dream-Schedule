@@ -1,0 +1,83 @@
+
+
+
+table{
+    width: 90%;
+    margin: auto;
+}
+
+th{
+    background-color: rebeccapurple;
+    border-color: black;
+    border-style: double;
+    border-radius: 8%; 
+}
+td{
+    border-radius: 8%;
+    border-color: black;
+    border-style:double;
+    background-color:rebeccapurple;
+    text-align: center;
+    font-weight: bold ;
+    font-size: smaller;
+
+}
+body{
+    background-image: url("https://api.wbez.org/v2/images/8b94e43c-2290-4fcc-b6f4-c89126e82d58.jpg?mode=FILL&width=1200&height=630");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: largeer;
+    color: whitesmoke;
+}
+.empty{
+    background-color: transparent;
+    border-style: none;
+}
+
+.shrug{
+    font-style: italic;
+    background-color: maroon;
+}
+.shrekFanFic{
+    background-image: url("https://i.redd.it/8qasx19mx9541.jpg");
+    background-size: cover;
+    /* color: red; */
+    font-size: larger;
+}
+
+.weakTurts{
+    background-image: url("https://i.redd.it/h67tgw6j29261.jpg");
+    background-size: cover;
+    font-size: larger;
+}
+
+a{
+    /* text-decoration: none; */
+    font-size: larger;
+}
+
+.beansOnToast{
+    color: black;
+    font-style: italic;
+    background-image: url("https://img.buzzfeed.com/buzzfeed-static/static/2017-08/4/4/asset/buzzfeed-prod-fastlane-03/sub-buzz-6608-1501836724-1.png?resize=625:464");
+    background-size: cover;
+}
+
+.rowsAndColumns{
+    background-color: tomato;
+}
+
+h1{
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+    background-color: tomato;
+    font-style: oblique;
+
+    border-style: double;
+    border-color: black;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 1%;
+}
